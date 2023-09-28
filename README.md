@@ -21,8 +21,7 @@ In this virtual internship, you will be responsible for creating a dynamic and e
 6. **Social Media Integration**: Integrate social media sharing buttons and profiles to expand the blog's reach and online presence.
 
 ## Key Tasks
-
-Here's an outline of the major tasks involved in this project:
+Outline of the major tasks involved in this project:
 
 - **Website Development**: Select a suitable web development framework, create the website structure, implement user registration and login, and develop a user-friendly content dashboard.
 
@@ -36,18 +35,23 @@ Here's an outline of the major tasks involved in this project:
 
 - **Social Media Integration**: Add social media sharing buttons and link the website to social media profiles.
 
-## Project Timeline
+## Technology Stack
 
-The project is expected to be completed over [insert internship duration]. Please refer to the detailed project timeline provided separately for specific deadlines and milestones.
+The Food Blogging Website project utilizes the following technology stack:
 
-## Communication
+- **Frontend Technologies**: HTML, CSS, JavaScript
 
-Regular communication is essential for project success. Weekly meetings will be conducted to discuss progress, challenges, and provide guidance. Feel free to reach out to your supervisor, [insert supervisor's name and contact information], for project-related queries or assistance.
+- **Database Management System**: MySQL
 
-## Conclusion
+- **Content Management**: Markdown, WYSIWYG editor
 
-We believe that this project will provide you with valuable experience in web development, content management, and user engagement. Enjoy the learning journey, contribute your creativity, and make the most of this virtual internship experience.
+- **Search Functionality**: [Specify any search libraries or tools used for implementing search functionality]
 
-Ankit Kumar Singh
-FutureReadyTalent Virtual Intern
+- **Version Control**: Git
+  
+- **Deployment and Hosting**: Microsoft Azure 
+
+
+**Ankit Kumar Singh** <br>
+FutureReadyTalent Virtual Intern<br>
 28/09/2023
